@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.767f048e.css",
+    "main.js": "/static/js/main.01415b59.js",
+    "static/js/787.63433d27.chunk.js": "/static/js/787.63433d27.chunk.js",
+    "static/media/artworks-flower.jpg": "/static/media/artworks-flower.da6f67918441360877db.jpg",
+    "static/media/projects-autoware.png": "/static/media/projects-autoware.108d9f5a63e1ae2f4860.png",
+    "static/media/street-5130030_1920.jpg": "/static/media/street-5130030_1920.fdd63f97abb9c5773b70.jpg",
+    "static/media/projects-citizen.png": "/static/media/projects-citizen.fc1d53f5905b627c4303.png",
+    "static/media/background-achievements.jpg": "/static/media/background-achievements.27f74f2d7d0bcc196e5a.jpg",
+    "static/media/artworks-uob.jpg": "/static/media/artworks-uob.57ac453d62d9eeec3648.jpg",
+    "static/media/artworks-abstract-me.png": "/static/media/artworks-abstract-me.75141a71cc436467a0ec.png",
+    "static/media/artworks-abstract-me-2.jpg": "/static/media/artworks-abstract-me-2.897b0aef6d01d1cb370f.jpg",
+    "static/media/projects-water.png": "/static/media/projects-water.3f77aa8f7a6aedba9047.png",
+    "static/media/artworks-hand.jpg": "/static/media/artworks-hand.d152fad67a0e3160f65c.jpg",
+    "static/media/achievements-nyjc.png": "/static/media/achievements-nyjc.ad6d2e24c308d69d8f00.png",
+    "static/media/projects-pl.png": "/static/media/projects-pl.6e7d926fd4751b85da77.png",
+    "static/media/artworks-skull.png": "/static/media/artworks-skull.148c769614887d3db481.png",
+    "static/media/artworks-snake.png": "/static/media/artworks-snake.2ee756681c1d7f568265.png",
+    "static/media/artworks-ear.jpg": "/static/media/artworks-ear.dd97544231c16a911661.jpg",
+    "static/media/about-me.jpg": "/static/media/about-me.7c4679d387fefc44260b.jpg",
+    "static/media/resume_marcellinus-jerricho.pdf": "/static/media/resume_marcellinus-jerricho.52c62e1a38df0f8ba3db.pdf",
+    "static/media/achievements-sam.png": "/static/media/achievements-sam.fc92bf1bdad7d7bd69e6.png",
+    "static/media/projects-politics.jpg": "/static/media/projects-politics.fe74ab35ab9835247817.jpg",
+    "static/media/workexp-stacs.png": "/static/media/workexp-stacs.41d20c4b8fc1f7819e76.png",
+    "static/media/projects-autocorrect.png": "/static/media/projects-autocorrect.93d8e241e469f63056ad.png",
+    "static/media/projects-dining.png": "/static/media/projects-dining.f7cabb2cb6b40c6782d2.png",
+    "static/media/achievements-ync.jpg": "/static/media/achievements-ync.adc4904d909c5358f657.jpg",
+    "static/media/workexp-yalenus.jpg": "/static/media/workexp-yalenus.adc4904d909c5358f657.jpg",
+    "static/media/achievements-ntu.jpg": "/static/media/achievements-ntu.e0cc7d409b602863315a.jpg",
+    "static/media/projects-birdy.png": "/static/media/projects-birdy.4db24c29ee7577dc7f7b.png",
+    "index.html": "/index.html",
+    "main.767f048e.css.map": "/static/css/main.767f048e.css.map",
+    "main.01415b59.js.map": "/static/js/main.01415b59.js.map",
+    "787.63433d27.chunk.js.map": "/static/js/787.63433d27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767f048e.css",
+    "static/js/main.01415b59.js"
+  ]
+}
